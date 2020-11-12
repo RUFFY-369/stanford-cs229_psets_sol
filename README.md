@@ -1,5 +1,5 @@
 # Stanford-CS229:Machine Learning
-This repo consists of my solutions of Stanford's CS229 (Fall 2018) problem sets.
+This repo consists of my solutions of coding problems in Stanford's CS229 (Fall 2018) problem sets.
 
 http://cs229.stanford.edu/syllabus-autumn2018.html
 
