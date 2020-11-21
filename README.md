@@ -1,5 +1,6 @@
 # Stanford-CS229:Machine Learning
-This repo consists of my solutions to coding problems in Stanford's CS229 (Fall 2018) problem sets.
+This repo consists of my solutions to coding problems in Stanford's CS229 (Fall 2018) problem sets. Various problems were solved involving different machine learning algorithms(supervised and unsupervised learning) like:
+• Gaussian Mixture Models •Naive Bayes •SVMs •K-means •EM algorithm (Expectation Maximization) •Principal Components Analysis (PCA) •Independent Components Analysis (ICA)
 
 http://cs229.stanford.edu/syllabus-autumn2018.html
 
